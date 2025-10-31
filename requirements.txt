@@ -1,0 +1,6 @@
+1.FASTAPI > Backend Framework(OCR)
+2.UVICORN > ASGI server to run the app
+3.PYTESSERACT > OCR Engine interface
+4.PILLOW > image handling
+5.REQUESTS > for testing/connecting frontend & Backend
+6.PYTHON - MULTIPART > for image uploads in FASTAPI
